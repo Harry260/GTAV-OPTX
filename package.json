@@ -1,0 +1,35 @@
+{
+   "name": "goptx",
+   "version": "1.0.69",
+   "description": "Optimize/Boost your GTA V FPS according to your PC configuration",
+   "main": "./bin/index.js",
+   "scripts": {
+      "test": "node index.js",
+      "deploy": "optx"
+   },
+   "repository": {
+      "type": "git",
+      "url": "git+https://github.com/harry260/GTAV-OPTX.git"
+   },
+   "type": "module",
+   "keywords": [
+      "GTA-V"
+   ],
+   "dependencies": {
+      "boxen": "^7.0.0",
+      "chalk": "^5.1.2",
+      "fast-xml-parser": "^4.0.12",
+      "inquirer": "^9.1.4",
+      "node-file-dialog": "^1.0.3",
+      "regedit": "^5.1.1"
+   },
+   "bin": {
+      "goptx": "bin/index.js"
+   },
+   "author": "Harry",
+   "license": "MIT",
+   "bugs": {
+      "url": "https://github.com/harry260/GTAV-OPTX/issues"
+   },
+   "homepage": "https://github.com/harry260/GTAV-OPTX#readme"
+}
