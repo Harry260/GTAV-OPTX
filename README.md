@@ -6,7 +6,7 @@ Optimize/Boost your GTA V FPS according to your PC configuration! You just need 
 
 # Usage
 
-After installing NodeJS, just run the below command to get started. After that proceed with your prefered configuration.
+After installing [NodeJS](https://nodejs.org/), just run the below command to get started. After that proceed with your prefered configuration.
 
 ```npm
 npx goptx
